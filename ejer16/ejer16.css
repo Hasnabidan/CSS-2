@@ -1,0 +1,23 @@
+#div1 {
+  height: 100px;
+  background-color: purple;
+  font-family: courier New;
+}
+
+#div2 {
+  height: 100px;
+  background-color: yellow;
+  font-family: Ariel black;
+}
+
+#div3 {
+  height: 100px;
+  background-color: pink;
+  font-family: Monospace;
+}
+
+#div4 {
+  height: 100px;
+  background-color: green;
+  font-family: Fantasy;
+}

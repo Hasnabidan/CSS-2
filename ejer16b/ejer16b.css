@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Mystery Quest";
+    src: url(sansation_light.woff);
+}
+
+p {
+    font-family: "Mystery Quest";
+    font-size: 150%;
+}

@@ -1,0 +1,32 @@
+div {
+    display: inline;
+    float: left;
+    margin: 1em;
+    padding: .3em;
+    border: 2px solid #555;
+    width: 100px;
+    height: 150px;
+    font: 1em arial, helvetica, sans-serif;
+}
+
+div {
+    
+    width: 100px;
+    height: 350px;
+    border:  2px solid #555;
+    overflow: visible;
+}
+div {
+    
+    width: 100px;
+    height: 350px;
+    border:  2px solid #555;
+    overflow: hidden;
+}
+div {
+    
+    width: 100px;
+    height: 350px;
+    border:  2px solid #555;
+    overflow: scroll;
+}
