@@ -1,0 +1,7 @@
+body {
+    background-image: url("flor.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 50%;
+    background-size: cover;
+}

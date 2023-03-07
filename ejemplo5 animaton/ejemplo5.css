@@ -1,0 +1,12 @@
+div {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  animation-name: example;
+  animation-duration: 6s;
+}
+
+@keyframes example {
+  from {background-color: blue;}
+  to {background-color: pink;}
+}

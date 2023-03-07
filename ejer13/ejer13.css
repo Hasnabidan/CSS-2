@@ -1,0 +1,32 @@
+p.one {
+  border: solid red;
+}
+
+p.two {
+  border: solid medium blue;
+}
+
+p.three {
+  border: dotted medium yellow;
+}
+
+p.four {
+  border-style: dotted;
+  border-color: red green blue yellow;
+}
+
+p.five {
+  border-style: double;
+  border-width: 15px;
+  border-color: black;
+}
+
+p.six {
+  border-style: double;
+  border-width: thick;
+}
+
+p.seven {
+  border-style: solid;
+  border-width: 5px 20px;
+}

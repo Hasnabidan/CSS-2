@@ -1,0 +1,17 @@
+body {
+    background-color: #dcdcdc;
+}
+
+
+div {
+    background-color: grey;
+    padding-top: 10px;
+    padding-left: 50px;
+    height: 500px;
+}
+
+p {
+    display: block;
+    background-color: lightgray;
+    position: fixed;
+}

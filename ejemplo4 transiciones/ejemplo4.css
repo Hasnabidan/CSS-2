@@ -1,0 +1,11 @@
+div {
+width: 100px;
+height: 100px;
+background: red;
+-webkit-transition: width 3s; /* For Safari 3.1 to 6.0 */
+transition-delay: width 1s;
+}
+div:hover{
+	width:300px;
+}
+

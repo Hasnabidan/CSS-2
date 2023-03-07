@@ -1,0 +1,21 @@
+#div1{
+  
+  width:300px;
+  margin:auto;
+  background-color:lightblue;
+}
+#div2{
+  
+  width:300px;
+  margin:auto;
+  background-color:lightblue;
+  padding: 25px 50px;
+  margin-bottom: 20px;
+}
+#div3{
+  
+  width:300px;
+  margin:auto;
+  background-color:lightblue;
+  padding: 50px;
+}

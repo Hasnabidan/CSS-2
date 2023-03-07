@@ -1,0 +1,15 @@
+body 
+#example{
+	padding: 60px;
+	border: 2px solid black;
+    background-image: url("rise.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+#example1{
+	padding: 66px;
+	border: 2px solid black;
+    background-image: url("rise1.jpg");
+    background-repeat: no-repeat;
+    background-size: 300px 100px ;
+}

@@ -1,0 +1,13 @@
+div {
+    position: relative;
+    left: 20px;
+    top: 20px;
+    border: 1px solid gray;
+}
+
+.relative {
+    position: relative;
+    left: 80px;
+    top: 40px;
+    background-color: aquamarine;
+}

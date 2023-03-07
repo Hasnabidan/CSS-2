@@ -1,0 +1,52 @@
+#div1 {
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 2px;
+  background-color: #E6C475;
+  width: 430px;
+  text-align: center;
+}
+
+.img1 {
+  float: left;
+  margin: right 9px;
+  width: 90px;
+}
+
+.img2 {
+  float: right;
+  margin-left: 9px;
+  width: 90px;
+}
+.bff{
+  width:90px;
+  margin: 9px;
+  float: right;
+}
+
+#div2 {
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 2px;
+  background-color: #E6C475;
+  width: 400px;
+
+}
+
+#div3 {
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 2px;
+  background-color: #E6C475;
+  width: 400px;
+}
+
+
+
+#div4 {
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 2px;
+  background-color: #E6C475;
+  width: 400px;
+}

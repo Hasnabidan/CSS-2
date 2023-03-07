@@ -1,0 +1,14 @@
+div {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+@keyframes example {
+  0%   {background-color: pink;}
+  25%  {background-color: yellow;}
+  50%  {background-color: gray;}
+  100% {background-color: lightblue;}
+}

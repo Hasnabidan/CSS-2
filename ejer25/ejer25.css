@@ -1,0 +1,35 @@
+body {
+  background-color:#E7E9EB;
+  background-image: linear-gradient(rgb(219, 167, 167), rgb(94, 83, 83), rgb(123, 123, 139));}
+
+#div1 {
+  background-image: url("fly.gif");
+  background-repeat: no-repeat;
+  background-position: right top;
+  height:50px;
+  background-color: lightslategrey;
+  border: 5px solid black;
+  border-radius:200px;
+  padding:20px;
+  color: white;
+}
+#div2 {
+  border: 5px solid gray;
+  padding: 20px;
+  border-radius: 25px;
+  width:900px;
+  background-color:black;
+  background-image: url("fly.gif");
+  background-repeat: repeat-y;
+  color:gray;
+}
+#div3 {
+  border: 5px solid black;
+  padding: 10px;
+  border-radius: 5px;
+  background-color:gray;
+  color:black;
+  width: 700px;
+  background-image: url("fly.gif");
+  background-repeat: repeat;
+}
